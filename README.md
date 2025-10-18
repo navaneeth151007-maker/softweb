@@ -528,7 +528,7 @@ footer {
 ## OUTPUT:
 <img width="1884" height="880" alt="Screenshot 2025-10-10 112942" src="https://github.com/user-attachments/assets/6e5b48b2-d089-4d83-9f03-d197ba387c7e" />
 <img width="1920" height="1080" alt="Screenshot 2025-10-10 112447" src="https://github.com/user-attachments/assets/82f9382a-e891-4b2a-bb74-0acb21c21e56" />
-<img width="1920" height="1020" alt="Screenshot 2025-10-10 112457" src="https://github.com/user-attachments/assets/f5b3d8f2-944a-4897-b26a-ffcf680e899e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b496c386-3dae-46b8-b82d-1d3d4aec2c9d" />
 <img width="1920" height="1020" alt="Screenshot 2025-10-10 112506" src="https://github.com/user-attachments/assets/b908358c-9c11-4883-8954-403e7fdf40ae" />
 
 
